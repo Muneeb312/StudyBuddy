@@ -1,0 +1,38 @@
+[
+  {
+    "input": "What is Python?",
+    "expected_pattern": "high-level, interpreted programming language"
+  },
+  {
+    "input": "What is recursion?",
+    "expected_pattern": "function calls itself"
+  },
+  {
+    "input": "What is a base case in recursion?",
+    "expected_pattern": "stop the recursion"
+  },
+  {
+    "input": "What are the key features of Python?",
+    "expected_pattern": "Interpreted, Dynamically Typed, Object-Oriented"
+  },
+  {
+    "input": "What are data structures in Python?",
+    "expected_pattern": "organizing and storing data"
+  },
+  {
+    "input": "What is a list in Python?",
+    "expected_pattern": "Ordered, mutable"
+  },
+  {
+    "input": "What is a tuple in Python?",
+    "expected_pattern": "Ordered, immutable"
+  },
+  {
+    "input": "What is a dictionary in Python?",
+    "expected_pattern": "key-value pairs"
+  },
+  {
+    "input": "What is a set in Python?",
+    "expected_pattern": "unique items"
+  }
+]
